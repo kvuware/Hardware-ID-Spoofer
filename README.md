@@ -3,7 +3,7 @@ Custom Created Hardware ID Spoofer to Bypass Hardware or IP Bans
 <br>
 ## How To Use
 * `git clone https://github.com/kvuware/Hardware-ID-Spoofer.git`
-* cd `Monotone-HWID-Spoofer`
+* cd `Hardware-ID-Spoofer`
 * open monotone.exe
 * give admin privilages
 * click 'Unban'
